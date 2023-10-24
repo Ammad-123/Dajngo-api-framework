@@ -1,18 +1,6 @@
 # Dajngo-api-framework
 How to use Dajngo-api-framework see the steps
 
-
-[![PyPI version](https://badge.fury.io/py/django-api-framework.svg)](https://badge.fury.io/py/django-api-framework)
-[![PyPI version](https://img.shields.io/pypi/v/django-api-framework.svg)](https://pypi.python.org/pypi/django-api-framework)
-
-![Test](https://github.com/freemindcore/django-api-framework/actions/workflows/test_full.yml/badge.svg)
-[![Codecov](https://img.shields.io/codecov/c/gh/freemindcore/django-api-framework)](https://codecov.io/gh/freemindcore/django-api-framework)
-[![Downloads](https://pepy.tech/badge/django-api-framework/month)](https://pepy.tech/project/django-api-framework)
-
-[![PyPI version](https://img.shields.io/pypi/pyversions/django-api-framework.svg)](https://pypi.python.org/pypi/django-api-framework)
-[![PyPI version](https://img.shields.io/pypi/djversions/django-api-framework.svg)](https://pypi.python.org/pypi/django-api-framework)
-
-
 # Easy CRUD API Framework
 
 - Zero code for a full CRUD API: Automatic and configurable, inspired by [NextJs-Crud](https://github.com/nestjsx/crud).
