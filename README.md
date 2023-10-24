@@ -1,31 +1,8 @@
 # Dajngo-api-framework
 How to use Dajngo-api-framework see the steps
-
 # Easy CRUD API Framework
-
-- Zero code for a full CRUD API: Automatic and configurable, inspired by [NextJs-Crud](https://github.com/nestjsx/crud).
-  - Async CRUD API with Django RBAC security protection
-  - Prefetch and retrieve all m2m fields if configured
-  - Recursively retrieve all FK/OneToOne fields if configured
-  - Excluding fields you do not want, or define a list of sensitive fields of your choice
-- Pure class based [Django-Ninja](https://github.com/vitalik/django-ninja) APIs: thanks to [Django-Ninja-Extra](https://github.com/eadwinCode/django-ninja-extra)
-- Domain/Service/Controller Base Structure: for better code organization.
-- Base Permission/Response/Exception Classes: and some handy features to help your API coding easier.
-
-```
 Django-Ninja features:
-
-  Easy: Designed to be easy to use and intuitive.
-  FAST execution: Very high performance thanks to Pydantic and async support.
-  Fast to code: Type hints and automatic docs lets you focus only on business logic.
-  Standards-based: Based on the open standards for APIs: OpenAPI (previously known as Swagger) and JSON Schema.
-  Django friendly: (obviously) has good integration with the Django core and ORM.
-
 Plus Extra:
-  Class Based: Design your APIs in a class based fashion.
-  Permissions: Protect endpoint(s) at ease with defined permissions and authorizations at route level or controller level.
-  Dependency Injection: Controller classes supports dependency injection with python Injector or django_injector. Giving you the ability to inject API dependable services to APIController class and utilizing them where needed
-```
 
 ## Install
 `pip install django-api-framework`
